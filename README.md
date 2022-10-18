@@ -3,7 +3,7 @@ Adventure Time API
 Adventure Time API is a simple data source that catalogs the main characters of the Cartoon Network series Adventure Time.
 ### Exemple
 The API will respond to this request with the following object:
-[Original People Json]{https://adventuretimeapi.herokuapp.com/people} .
+[Original People Json](https://adventuretimeapi.herokuapp.com/people) .
 ```
 [
   {
