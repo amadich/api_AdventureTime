@@ -1,0 +1,30 @@
+body {
+	background: linear-gradient(white,whitesmoke);
+	background-repeat: no-repeat;
+	background-color: whitesmoke;
+}
+li {
+	display: inline-block;
+	display: table;
+	margin: auto;
+	margin-top: 10%;
+}
+input {
+	display: table;
+	width: 140px;
+	margin: 1em;
+	margin: auto;
+	outline: none;
+	height: 30px;
+	padding-left: 10px;
+	border: 1px solid #999;
+	background: url(../img/magnifier.png);
+	background-size: 10%;
+	background-repeat: no-repeat;
+	background-position: 120px 10px;
+	transition: 0.4s;
+}
+input:focus {
+	width: 200px;
+	background-position: 180px 5px;
+}
